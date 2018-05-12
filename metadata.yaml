@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42780'
     url: http://www.gutenberg.org/2009/agents/42780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44479#The-Other-Side-of-EvolutionIts-Effects-and-Fallacy
 gutenberg_issued: '2013-12-21'
 gutenberg_type: Text
 identifiers:
