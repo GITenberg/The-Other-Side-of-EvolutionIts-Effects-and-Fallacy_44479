@@ -1,0 +1,25 @@
+_repo: The-Other-Side-of-EvolutionIts-Effects-and-Fallacy_44479
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44479-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Patterson, Alexander
+    gutenberg_agent_id: '42780'
+    url: http://www.gutenberg.org/2009/agents/42780
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible and science'
+- !lcsh 'Evolution'
+- !lcc 'QH'
+title: 'The Other Side of Evolution: Its Effects and Fallacy'
+url: http://www.gutenberg.org/ebooks/44479
